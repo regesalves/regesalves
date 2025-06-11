@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Réges Alves!
 
-🎯 **Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática em formação**  
+🎯 **Estudante de TI | Desenvolvimento de Sistemas e Informática | Buscando Estágio em Tecnologia**  
 📊 **MBA em Gestão de Projetos**  
 💻 **Interesse em Tecnologia, Gestão Estratégica e Desenvolvimento**  
 🚀 Buscando oportunidades para crescer profissionalmente na área de TI.
