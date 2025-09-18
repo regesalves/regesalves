@@ -20,11 +20,9 @@ Este GitHub é o meu "diário de bordo" desta transição de carreira. Aqui voc�
 
 ### 🛠️ Ferramentas e Conceitos
 
-- Git & GitHub
-- Lógica de Programação
-- Redes de Computadores
-- Suporte Técnico
-- Metodologias Ágeis
+- **Infraestrutura:** Redes, Roteadores, Cabeamento
+- **Desenvolvimento:** Git, Lógica de Programação
+- **Gestão:** Metodologias Ágeis, Suporte Técnico
 
 ---
 
