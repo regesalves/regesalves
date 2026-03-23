@@ -1,7 +1,6 @@
 # Olá, eu sou o Réges Alves! 👋
 
-Atuo na área de tecnologia com mais de 8 anos de experiência em **suporte técnico e infraestrutura de TI**.
-
+Atuo na área de tecnologia com mais de 8 anos de experiência em suporte técnico e infraestrutura de TI, com formação na área e em constante evolução profissional.
 Este GitHub reúne meus projetos e estudos na área de tecnologia, com foco em desenvolvimento de sistemas, onde aplico na prática os conhecimentos adquiridos ao longo da minha formação.
 
 ---
@@ -39,11 +38,6 @@ Busco oportunidades na área de tecnologia, com foco em **suporte técnico, help
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas de Réges Alves no GitHub](https://github-readme-stats.vercel.app/api?username=regesalves&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
----
 
 ## 📫 Contato
 
