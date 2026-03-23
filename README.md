@@ -1,10 +1,8 @@
 # Olá, eu sou o Réges Alves! 👋
 
-Atuo na área de tecnologia com mais de 8 anos de experiência em **suporte técnico e infraestrutura de TI**, e atualmente estou em transição para a área de desenvolvimento, cursando **Análise e Desenvolvimento de Sistemas**.
+Atuo na área de tecnologia com mais de 8 anos de experiência em **suporte técnico e infraestrutura de TI**.
 
-Sou formado em Administração e possuo MBA em Gestão de Projetos, trazendo uma visão prática e organizada para a área de tecnologia.
-
-Este GitHub representa minha evolução na área de desenvolvimento, onde compartilho projetos práticos e estudos, aplicando na prática os conhecimentos que venho adquirindo.
+Este GitHub reúne meus projetos e estudos na área de tecnologia, com foco em desenvolvimento de sistemas, onde aplico na prática os conhecimentos adquiridos ao longo da minha formação.
 
 ---
 
@@ -31,13 +29,13 @@ Sistema de abertura e gerenciamento de chamados, simulando um fluxo real de aten
 
 - **Suporte e Infraestrutura:** Redes, roteadores, manutenção e suporte técnico  
 - **Desenvolvimento:** JavaScript, React, lógica de programação e Git  
-- **Gestão:** Metodologias ágeis, organização de processos e atendimento técnico  
+- **Organização e Processos:** Atendimento técnico e organização de demandas  
 
 ---
 
 ## 🎯 Objetivo
 
-Busco oportunidades na área de tecnologia, com foco inicial em **suporte técnico, help desk e infraestrutura**, enquanto continuo evoluindo em desenvolvimento de sistemas.
+Busco oportunidades na área de tecnologia, com foco em **suporte técnico, help desk e infraestrutura**, aplicando também conhecimentos em desenvolvimento quando necessário.
 
 ---
 
