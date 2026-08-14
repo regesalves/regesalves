@@ -93,7 +93,6 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 <li>Requisitos, comportamentos e fluxos</li>
 <li>Regras de negócio</li>
 <li>Validação de cálculos e funcionalidades</li>
-<li>Identificação e correção de inconsistências</li>
 <li>Evolução incremental da solução</li>
 <li>Dashboard, indicadores e relatórios</li>
 </ul>
