@@ -9,10 +9,9 @@
 
 <h3>💻 Aplicações</h3>
 
-<p>
-React · JavaScript<br>
-HTML · CSS
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML e CSS">
 
 </div>
 
@@ -24,9 +23,8 @@ HTML · CSS
 
 <h3>🗄️ Dados e armazenamento</h3>
 
-<p>
-Supabase · localStorage
-</p>
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase">&nbsp;
+<img src="https://img.shields.io/badge/localStorage-323330?style=for-the-badge&logo=googlechrome&logoColor=white" alt="localStorage">
 
 </div>
 
@@ -38,9 +36,9 @@ Supabase · localStorage
 
 <h3>🔧 Versionamento e publicação</h3>
 
-<p>
-Git · GitHub · Vercel
-</p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 
 </div>
 
