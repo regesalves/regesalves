@@ -53,7 +53,7 @@ Verificação de comportamentos, identificação de inconsistências e avaliaç�
 
 <h3>📈 Evolução</h3>
 
-Análise de processos e resultados para orientar correções, melhorias e novas decisões sobre a solução.
+Análise de processos e resultados para orientar correções, melhorias e novas decisões sobre a solução e seus fluxos.
 
 </div>
 
