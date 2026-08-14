@@ -1,27 +1,10 @@
 <div align="center">
 
-# Réges Alves
+# Projetos e soluções em Análise de Sistemas
 
-### Análise de Sistemas | Suporte Técnico
-
-Análise de problemas, requisitos, regras de negócio, validação e evolução de soluções.
-
-<br>
-
-<a href="https://www.linkedin.com/in/regesalves/">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:reges.alves@hotmail.com">
-  <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
-</a>
+Experiência em Suporte Técnico aplicada à análise de problemas, requisitos, regras de negócio, validação e evolução de sistemas.
 
 </div>
-
----
-
-## Sobre mim
-
-Minha experiência em Suporte Técnico me proporcionou contato direto com problemas, necessidades de usuários e funcionamento de sistemas. A partir dessa base, direciono minha atuação para Análise de Sistemas e desenvolvo projetos próprios que me permitem analisar necessidades, definir comportamentos e validar soluções na prática.
 
 ---
 
@@ -29,9 +12,10 @@ Minha experiência em Suporte Técnico me proporcionou contato direto com proble
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### 🔎 Análise e estruturação
+### 🔎 Análise
 
 Compreensão de problemas e necessidades, organização de informações e definição de requisitos, regras de negócio e fluxos funcionais.
 
@@ -39,7 +23,7 @@ Compreensão de problemas e necessidades, organização de informações e defin
 
 <td width="33%" valign="top">
 
-### ✅ Validação e experiência de uso
+### ✅ Validação
 
 Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades considerando as necessidades do usuário.
 
@@ -47,11 +31,12 @@ Verificação de comportamentos, identificação de inconsistências e avaliaç�
 
 <td width="33%" valign="top">
 
-### 📈 Evolução de soluções
+### 📈 Evolução
 
 Análise de processos e resultados para orientar correções, melhorias e novas decisões sobre a solução.
 
 </td>
+
 </tr>
 </table>
 
@@ -66,13 +51,13 @@ Análise de processos e resultados para orientar correções, melhorias e novas 
 
 ### 🎯 ControlBet
 
-**Projeto próprio e individual para gerenciamento e acompanhamento de banca de apostas.**
+**Gerenciamento e acompanhamento de banca de apostas.**
 
-O ControlBet centraliza o registro de bilhetes e movimentações, acompanha resultados e transforma os dados registrados em informações úteis para controle e análise.
+Projeto próprio e individual desenvolvido para centralizar o registro de bilhetes e movimentações, acompanhar resultados e transformar os dados registrados em informações úteis para controle e análise.
 
 Minha atuação no projeto envolveu análise de necessidades, definição de requisitos, regras de negócio e fluxos, realização de testes manuais e aplicação de critérios de aceite para validar e refinar a solução.
 
-**Principais evidências**
+**O que o projeto demonstra**
 
 - Requisitos, comportamentos e fluxos
 - Regras de negócio
@@ -83,15 +68,8 @@ Minha atuação no projeto envolveu análise de necessidades, definição de req
 
 <br>
 
-<a href="https://github.com/regesalves/controlbet-demo">
-  🔗 Ver repositório
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://controlbet-demo.vercel.app/">
-  🚀 Testar demonstração
-</a>
+[![Ver código](https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/regesalves/controlbet-demo)
+[![Testar demonstração](https://img.shields.io/badge/TESTAR%20DEMONSTRAÇÃO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://controlbet-demo.vercel.app/)
 
 </td>
 
@@ -127,17 +105,17 @@ Minha atuação no projeto envolveu análise de necessidades, definição de req
 
 ### 🎫 Sistema de Chamados
 
-**Projeto acadêmico para registro e acompanhamento de solicitações de suporte.**
+**Registro e acompanhamento de solicitações de suporte.**
 
-Desenvolvido como trabalho final do curso de Programação Frontend com React e JavaScript, o projeto simula um fluxo básico de atendimento e permite registrar, acompanhar e organizar chamados técnicos.
+Projeto acadêmico desenvolvido como trabalho final do curso de Programação Frontend com React e JavaScript.
+
+A aplicação simula um fluxo básico de atendimento, permitindo registrar, acompanhar e organizar chamados técnicos.
 
 O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organização de um fluxo relacionado ao atendimento e suporte técnico.
 
 <br>
 
-<a href="https://github.com/regesalves/sistema-de-chamados-react">
-  🔗 Ver repositório
-</a>
+[![Ver código](https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/regesalves/sistema-de-chamados-react)
 
 <br><br>
 
@@ -154,6 +132,7 @@ O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organiz
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 💻 Aplicações
@@ -182,21 +161,22 @@ O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organiz
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📫 Contato profissional
+## 📫 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/regesalves/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conheça%20minha%20trajetória-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LINKEDIN-Conheça%20minha%20trajetória-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:reges.alves@hotmail.com">
-  <img src="https://img.shields.io/badge/E--mail-Entre%20em%20contato-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  <img src="https://img.shields.io/badge/E--MAIL-Entre%20em%20contato-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
 </a>
 
 </div>
