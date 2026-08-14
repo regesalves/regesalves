@@ -1,17 +1,23 @@
 <div align="center">
 
-<h1>Projetos e soluções em Análise de Sistemas</h1>
+<div>
+<strong style="font-size: 28px;">Projetos e soluções em Análise de Sistemas</strong>
+</div>
 
-<p>
+<br>
+
 Experiência em Suporte Técnico aplicada à análise de problemas, requisitos,
 regras de negócio, validação e evolução de sistemas.
-</p>
 
 </div>
 
----
+<hr>
 
-<h2>Como atuo</h2>
+<div>
+<strong>Como atuo</strong>
+</div>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -20,7 +26,9 @@ regras de negócio, validação e evolução de sistemas.
 
 <div align="center">
 
-<h3>🔎 Análise</h3>
+<strong>🔎 Análise</strong>
+
+<br><br>
 
 Compreensão de problemas e necessidades, organização de informações e definição de requisitos, regras de negócio e fluxos funcionais.
 
@@ -32,7 +40,9 @@ Compreensão de problemas e necessidades, organização de informações e defin
 
 <div align="center">
 
-<h3>✅ Validação</h3>
+<strong>✅ Validação</strong>
+
+<br><br>
 
 Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades considerando as necessidades do usuário.
 
@@ -44,7 +54,9 @@ Verificação de comportamentos, identificação de inconsistências e avaliaç�
 
 <div align="center">
 
-<h3>📈 Evolução</h3>
+<strong>📈 Evolução</strong>
+
+<br><br>
 
 Análise de processos e resultados para orientar correções, melhorias e novas decisões sobre a solução.
 
@@ -55,9 +67,13 @@ Análise de processos e resultados para orientar correções, melhorias e novas 
 </tr>
 </table>
 
----
+<hr>
 
-<h2>Projetos</h2>
+<div>
+<strong>Projetos</strong>
+</div>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -66,7 +82,9 @@ Análise de processos e resultados para orientar correções, melhorias e novas 
 
 <div align="center">
 
-<h3>🎯 ControlBet</h3>
+<strong>🎯 ControlBet</strong>
+
+<br><br>
 
 <strong>Projeto próprio e individual para gerenciamento e acompanhamento de banca de apostas.</strong>
 
@@ -91,9 +109,11 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 <li>Dashboard, indicadores e relatórios</li>
 </ul>
 
+<br>
+
 <div align="center">
 
-<a href="https://github.com/regesalves/controlbet-demo">
+<a href="https://github.com/regesalves/controlbet-demo" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar ControlBet">
 </a>
 
@@ -105,7 +125,9 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 
 <div align="center">
 
-<h3>🎫 Sistema de Chamados</h3>
+<strong>🎫 Sistema de Chamados</strong>
+
+<br><br>
 
 <strong>Projeto acadêmico para registro e acompanhamento de solicitações de suporte.</strong>
 
@@ -129,9 +151,11 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 <li>Persistência de dados com localStorage</li>
 </ul>
 
+<br>
+
 <div align="center">
 
-<a href="https://github.com/regesalves/sistema-de-chamados-react">
+<a href="https://github.com/regesalves/sistema-de-chamados-react" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Sistema de Chamados">
 </a>
 
@@ -142,18 +166,24 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 </tr>
 </table>
 
----
+<hr>
 
-<h2>Tecnologias aplicadas</h2>
+<div>
+<strong>Tecnologias aplicadas</strong>
+</div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
 
-<td width="340" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
-<h3>💻 Aplicações</h3>
+<strong>💻 Aplicações</strong>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
@@ -163,11 +193,13 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 </td>
 
-<td width="340" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
-<h3>🗄️ Dados e armazenamento</h3>
+<strong>🗄️ Dados e armazenamento</strong>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase">&nbsp;
 <img src="https://img.shields.io/badge/localStorage-323330?style=for-the-badge&logo=googlechrome&logoColor=white" alt="localStorage">
@@ -176,11 +208,13 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 </td>
 
-<td width="340" valign="top">
+<td width="34%" valign="top">
 
 <div align="center">
 
-<h3>🔧 Versionamento e publicação</h3>
+<strong>🔧 Versionamento e publicação</strong>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
@@ -193,17 +227,21 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 </tr>
 </table>
 
----
+<hr>
 
-<h2>Contato profissional</h2>
+<div>
+<strong>Contato profissional</strong>
+</div>
+
+<br>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/regesalves/">
+<a href="https://www.linkedin.com/in/regesalves/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:reges.alves@hotmail.com">
+<a href="mailto:reges.alves@hotmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
 </a>
 
