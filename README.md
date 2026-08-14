@@ -1,45 +1,64 @@
-# Olá, eu sou o Réges Alves! 👋
+Minha experiência em Suporte Técnico me proporcionou contato direto com problemas, necessidades de usuários e funcionamento de sistemas. A partir dessa base, direciono minha atuação para Análise de Sistemas e desenvolvo projetos próprios que me permitem analisar necessidades, definir comportamentos e validar soluções na prática.
 
-Atuo na área de tecnologia com mais de 8 anos de experiência em suporte técnico e infraestrutura de TI, com formação na área e em constante evolução profissional.
-Este GitHub reúne meus projetos e estudos na área de tecnologia, com foco em desenvolvimento de sistemas, onde aplico na prática os conhecimentos adquiridos ao longo da minha formação.
+## Áreas de contribuição
 
----
+**Análise e estruturação**  
+Compreensão de problemas e necessidades, organização de informações e definição de requisitos, regras de negócio e fluxos funcionais.
 
-## 🚀 Projetos em destaque
+**Validação e experiência de uso**  
+Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades considerando as necessidades do usuário.
 
-🔹 **Sistema de Chamados (React)**  
-Sistema de abertura e gerenciamento de chamados, simulando um fluxo real de atendimento em suporte técnico, com persistência de dados utilizando localStorage.  
-👉 https://github.com/regesalves/sistema-de-chamados-react
+**Evolução e melhoria de soluções**  
+Análise de processos e resultados para orientar correções e melhorias na solução.
 
----
+## Projetos em destaque
 
-## 💻 Tecnologias e Linguagens
+### ControlBet
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Projeto próprio e individual para gerenciamento e acompanhamento de banca de apostas.**
 
----
+O ControlBet foi desenvolvido para centralizar o registro de bilhetes e movimentações, acompanhar resultados e transformar os dados registrados em informações úteis para controle e análise.
 
-## 🛠️ Experiência e Conhecimentos
+Minha atuação no projeto envolveu a análise de necessidades, definição de requisitos, regras de negócio e fluxos, realização de testes manuais e aplicação de critérios de aceite para validar e refinar a solução.
 
-- **Suporte e Infraestrutura:** Redes, roteadores, manutenção e suporte técnico  
-- **Desenvolvimento:** JavaScript, React, lógica de programação e Git  
-- **Organização e Processos:** Atendimento técnico e organização de demandas  
+O projeto reúne recursos de registro e acompanhamento, cálculos, indicadores, dashboard, relatórios e filtros, com foco na organização das informações e na experiência de uso.
 
----
+**Principais evidências:**
+- definição de requisitos, comportamentos e fluxos;
+- aplicação de regras de negócio;
+- validação de cálculos e funcionalidades;
+- identificação e correção de inconsistências;
+- evolução incremental da solução;
+- publicação de uma versão demonstrativa funcional.
 
-## 🎯 Objetivo
+[Repositório](https://github.com/regesalves/controlbet-demo) · [Demonstração](https://controlbet-demo.vercel.app/)
 
-Busco oportunidades na área de tecnologia, com foco em **suporte técnico, help desk e infraestrutura**, aplicando também conhecimentos em desenvolvimento quando necessário.
+### Sistema de Chamados
 
----
+**Projeto acadêmico para registro e acompanhamento de solicitações de suporte.**
 
+Desenvolvido como trabalho final do curso de Programação Frontend com React e JavaScript, o projeto simula um fluxo básico de atendimento e permite registrar, acompanhar e organizar chamados técnicos.
 
-## 📫 Contato
+O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organização de um fluxo relacionado ao atendimento e suporte técnico.
 
-- **LinkedIn:** https://www.linkedin.com/in/regesalves  
-- **E-mail:** reges.alves@hotmail.com
+[Repositório](https://github.com/regesalves/sistema-de-chamados-react)
+
+## Tecnologias aplicadas nos projetos
+
+Ferramentas utilizadas na construção, integração, versionamento e disponibilização das soluções apresentadas.
+
+**Construção das aplicações**  
+React, JavaScript, HTML e CSS
+
+**Dados e armazenamento**  
+Supabase, localStorage
+
+**Versionamento e publicação**  
+Git, GitHub e Vercel
+
+## Contato profissional
+
+Para conhecer minha trajetória profissional ou entrar em contato:
+
+- [LinkedIn](https://www.linkedin.com/in/regesalves/)
+- [E-mail](mailto:reges.alves@hotmail.com)
