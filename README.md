@@ -91,6 +91,16 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 <li>Dashboard, indicadores e relatórios</li>
 </ul>
 
+<br>
+
+<div align="center">
+
+<a href="https://github.com/regesalves/controlbet-demo">
+<img src="https://img.shields.io/badge/ACESSAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar ControlBet">
+</a>
+
+</div>
+
 </td>
 
 <td width="50%" valign="top">
@@ -118,7 +128,19 @@ O projeto relaciona minha experiência em Suporte Técnico à compreensão e org
 <li>Registro e acompanhamento de solicitações</li>
 <li>Organização de demandas técnicas</li>
 <li>Aplicação prática de conhecimentos em React</li>
+<li>&nbsp;</li>
+<li>&nbsp;</li>
 </ul>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/regesalves/sistema-de-chamados-react">
+<img src="https://img.shields.io/badge/ACESSAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Sistema de Chamados">
+</a>
+
+</div>
 
 </td>
 
