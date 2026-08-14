@@ -22,9 +22,9 @@ regras de negócio, validação e evolução de sistemas.
 
 <h3>🔎 Análise</h3>
 
-</div>
-
 Compreensão de problemas e necessidades, organização de informações e definição de requisitos, regras de negócio e fluxos funcionais.
+
+</div>
 
 </td>
 
@@ -34,9 +34,9 @@ Compreensão de problemas e necessidades, organização de informações e defin
 
 <h3>✅ Validação</h3>
 
-</div>
-
 Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades considerando as necessidades do usuário.
+
+</div>
 
 </td>
 
@@ -46,9 +46,9 @@ Verificação de comportamentos, identificação de inconsistências e avaliaç�
 
 <h3>📈 Evolução</h3>
 
-</div>
-
 Análise de processos e resultados para orientar correções, melhorias e novas decisões sobre a solução.
+
+</div>
 
 </td>
 
@@ -68,9 +68,9 @@ Análise de processos e resultados para orientar correções, melhorias e novas 
 
 <h3>🎯 ControlBet</h3>
 
-</div>
-
 <strong>Projeto próprio e individual para gerenciamento e acompanhamento de banca de apostas.</strong>
+
+</div>
 
 <p>
 O ControlBet centraliza o registro de bilhetes e movimentações, acompanha resultados e transforma os dados registrados em informações úteis para controle e análise.
@@ -91,14 +91,6 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 <li>Dashboard, indicadores e relatórios</li>
 </ul>
 
-<div align="center">
-
-<a href="https://github.com/regesalves/controlbet-demo">
-<img src="https://img.shields.io/badge/ACESSAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar ControlBet">
-</a>
-
-</div>
-
 </td>
 
 <td width="50%" valign="top">
@@ -107,9 +99,9 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 
 <h3>🎫 Sistema de Chamados</h3>
 
-</div>
-
 <strong>Projeto acadêmico para registro e acompanhamento de solicitações de suporte.</strong>
+
+</div>
 
 <p>
 Desenvolvido como trabalho final do curso de Programação Frontend com React e JavaScript, o projeto simula um fluxo básico de atendimento e permite registrar, acompanhar e organizar chamados técnicos.
@@ -127,14 +119,6 @@ O projeto relaciona minha experiência em Suporte Técnico à compreensão e org
 <li>Organização de demandas técnicas</li>
 <li>Aplicação prática de conhecimentos em React</li>
 </ul>
-
-<div align="center">
-
-<a href="https://github.com/regesalves/sistema-de-chamados-react">
-<img src="https://img.shields.io/badge/ACESSAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Sistema de Chamados">
-</a>
-
-</div>
 
 </td>
 
