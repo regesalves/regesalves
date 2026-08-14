@@ -77,7 +77,7 @@ O ControlBet centraliza o registro de bilhetes e movimentações, acompanha resu
 </p>
 
 <p>
-Minha atuação envolveu análise de necessidades, definição de requisitos, regras de negócio e fluxos, testes manuais e aplicação de critérios de aceite para validar e refinar a solução.
+Minha atuação envolveu análise de necessidades, definição de requisitos, regras de negócio e fluxos, realização de testes manuais e aplicação de critérios de aceite para validar e refinar a solução.
 </p>
 
 <strong>O que demonstra</strong>
@@ -87,6 +87,8 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 <li>Regras de negócio</li>
 <li>Validação de cálculos e funcionalidades</li>
 <li>Identificação e correção de inconsistências</li>
+<li>Evolução incremental da solução</li>
+<li>Dashboard, indicadores e relatórios</li>
 </ul>
 
 <div align="center">
@@ -143,13 +145,43 @@ O projeto relaciona minha experiência em Suporte Técnico à compreensão e org
 
 <h2>Tecnologias aplicadas</h2>
 
-| 💻 Aplicações | 🗄️ Dados | 🔧 Versionamento |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E"> <img src="https://img.shields.io/badge/localStorage-323330?style=flat-square&logo=googlechrome&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"> |
+<table width="100%">
+<tr>
+
+<td width="33%" align="center" nowrap>
+<strong>💻 Aplicações</strong>
+</td>
+
+<td width="33%" align="center" nowrap>
+<strong>🗄️ Dados</strong>
+</td>
+
+<td width="34%" align="center" nowrap>
+<strong>🔧 Versionamento</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" nowrap>
+React&nbsp;&nbsp;·&nbsp;&nbsp;JavaScript&nbsp;&nbsp;·&nbsp;&nbsp;HTML/CSS
+</td>
+
+<td align="center" nowrap>
+Supabase&nbsp;&nbsp;·&nbsp;&nbsp;localStorage
+</td>
+
+<td align="center" nowrap>
+Git&nbsp;&nbsp;·&nbsp;&nbsp;GitHub&nbsp;&nbsp;·&nbsp;&nbsp;Vercel
+</td>
+
+</tr>
+</table>
 
 ---
 
-<h2>📫 Contato</h2>
+<h2>Contato profissional</h2>
 
 <div align="center">
 
