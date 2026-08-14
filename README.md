@@ -1,10 +1,17 @@
 <div align="center">
 
-<h1>Projetos e soluções em Análise de Sistemas</h1>
+<h1>Olá, eu sou Réges Alves 👋</h1>
 
 <p>
-Experiência em Suporte Técnico aplicada à análise de problemas, requisitos,
-regras de negócio, validação e evolução de sistemas.
+Profissional de Tecnologia da Informação com experiência em Suporte Técnico e direcionamento para Análise de Sistemas.
+</p>
+
+<p>
+Minha experiência com atendimento, resolução de problemas e funcionamento de sistemas contribui para uma atuação voltada à compreensão de necessidades, organização de requisitos, definição de regras e fluxos e validação de soluções.
+</p>
+
+<p>
+Este GitHub reúne projetos próprios e acadêmicos que utilizo para aplicar esses conhecimentos na prática.
 </p>
 
 </div>
@@ -86,6 +93,7 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 <li>Requisitos, comportamentos e fluxos</li>
 <li>Regras de negócio</li>
 <li>Validação de cálculos e funcionalidades</li>
+<li>Identificação e correção de inconsistências</li>
 <li>Evolução incremental da solução</li>
 <li>Dashboard, indicadores e relatórios</li>
 </ul>
@@ -145,10 +153,10 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 <h2>Tecnologias aplicadas</h2>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="340" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -162,7 +170,7 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 </td>
 
-<td width="340" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -175,7 +183,7 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 </td>
 
-<td width="340" valign="top">
+<td width="34%" valign="top">
 
 <div align="center">
 
