@@ -1,21 +1,28 @@
 <div align="center">
 
-# Projetos e soluções em Análise de Sistemas
+<h1>Projetos e soluções em Análise de Sistemas</h1>
 
-Experiência em Suporte Técnico aplicada à análise de problemas, requisitos, regras de negócio, validação e evolução de sistemas.
+<p>
+Experiência em Suporte Técnico aplicada à análise de problemas, requisitos,
+regras de negócio, validação e evolução de sistemas.
+</p>
 
 </div>
 
 ---
 
-## Como atuo
+<h2>Como atuo</h2>
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🔎 Análise
+<div align="center">
+
+<h3>🔎 Análise</h3>
+
+</div>
 
 Compreensão de problemas e necessidades, organização de informações e definição de requisitos, regras de negócio e fluxos funcionais.
 
@@ -23,7 +30,11 @@ Compreensão de problemas e necessidades, organização de informações e defin
 
 <td width="33%" valign="top">
 
-### ✅ Validação
+<div align="center">
+
+<h3>✅ Validação</h3>
+
+</div>
 
 Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades considerando as necessidades do usuário.
 
@@ -31,7 +42,11 @@ Verificação de comportamentos, identificação de inconsistências e avaliaç�
 
 <td width="33%" valign="top">
 
-### 📈 Evolução
+<div align="center">
+
+<h3>📈 Evolução</h3>
+
+</div>
 
 Análise de processos e resultados para orientar correções, melhorias e novas decisões sobre a solução.
 
@@ -42,101 +57,108 @@ Análise de processos e resultados para orientar correções, melhorias e novas 
 
 ---
 
-## 🚀 Projetos em destaque
+<h2>Projetos</h2>
 
-### 🎯 ControlBet
+<h3>🎯 ControlBet</h3>
 
-<div align="center">
+<p>
+<strong>Projeto próprio e individual para gerenciamento e acompanhamento de banca de apostas.</strong>
+</p>
 
-<img src="https://raw.githubusercontent.com/regesalves/controlbet-demo/main/.github/imagens/dashboard.png" alt="Dashboard do ControlBet" width="800">
-
-</div>
-
-**Projeto próprio e individual para gerenciamento e acompanhamento de banca de apostas.**
-
+<p>
 O ControlBet centraliza o registro de bilhetes e movimentações, acompanha resultados e transforma os dados registrados em informações úteis para controle e análise.
+</p>
 
+<p>
 Minha atuação no projeto envolveu análise de necessidades, definição de requisitos, regras de negócio e fluxos, realização de testes manuais e aplicação de critérios de aceite para validar e refinar a solução.
+</p>
 
-**O que o projeto demonstra**
+<p><strong>O que o projeto demonstra</strong></p>
 
-- Requisitos, comportamentos e fluxos
-- Regras de negócio
-- Validação de cálculos e funcionalidades
-- Identificação e correção de inconsistências
-- Evolução incremental da solução
-- Dashboard, indicadores e relatórios
+<ul>
+<li>Requisitos, comportamentos e fluxos</li>
+<li>Regras de negócio</li>
+<li>Validação de cálculos e funcionalidades</li>
+<li>Identificação e correção de inconsistências</li>
+<li>Evolução incremental da solução</li>
+<li>Dashboard, indicadores e relatórios</li>
+</ul>
 
-<div align="center">
-
-[![Ver repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/regesalves/controlbet-demo)
-[![Testar demonstração](https://img.shields.io/badge/TESTAR%20DEMONSTRAÇÃO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://controlbet-demo.vercel.app/)
-
-<br>
-
-**React · JavaScript · Supabase · Vercel**
-
-</div>
+<p>
+<a href="https://github.com/regesalves/controlbet-demo"><strong>Acessar projeto →</strong></a>
+</p>
 
 ---
 
-### 🎫 Sistema de Chamados
+<h3>🎫 Sistema de Chamados</h3>
 
-<div align="center">
+<p>
+<strong>Projeto acadêmico para registro e acompanhamento de solicitações de suporte.</strong>
+</p>
 
-<img src="https://raw.githubusercontent.com/regesalves/sistema-de-chamados-react/main/src/assets/preview.png" alt="Sistema de Chamados" width="700">
-
-</div>
-
-**Projeto acadêmico para registro e acompanhamento de solicitações de suporte.**
-
+<p>
 Desenvolvido como trabalho final do curso de Programação Frontend com React e JavaScript, o projeto simula um fluxo básico de atendimento e permite registrar, acompanhar e organizar chamados técnicos.
+</p>
 
+<p>
 O projeto relaciona minha experiência em Suporte Técnico à compreensão e organização de um fluxo básico de atendimento.
+</p>
 
-<div align="center">
-
-[![Ver repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/regesalves/sistema-de-chamados-react)
-
-<br>
-
-**React · JavaScript · Vite · localStorage**
-
-</div>
+<p>
+<a href="https://github.com/regesalves/sistema-de-chamados-react"><strong>Acessar projeto →</strong></a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias aplicadas
+<h2>Tecnologias aplicadas</h2>
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 💻 Aplicações
+<div align="center">
 
+<h3>💻 Aplicações</h3>
+
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white">
+</p>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🗄️ Dados
+<div align="center">
 
+<h3>🗄️ Dados</h3>
+
+<p>
 <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
 <img src="https://img.shields.io/badge/localStorage-323330?style=flat-square&logo=googlechrome&logoColor=white">
+</p>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🔧 Versionamento
+<div align="center">
 
+<h3>🔧 Versionamento</h3>
+
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</p>
+
+</div>
 
 </td>
 
@@ -145,16 +167,16 @@ O projeto relaciona minha experiência em Suporte Técnico à compreensão e org
 
 ---
 
-## 📫 Contato
+<h2>📫 Contato</h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/regesalves/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:reges.alves@hotmail.com">
-  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
 </a>
 
 </div>
