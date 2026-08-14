@@ -192,19 +192,3 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 </tr>
 </table>
-
----
-
-<h2>Contato profissional</h2>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/regesalves/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:reges.alves@hotmail.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
-</a>
-
-</div>
