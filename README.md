@@ -1,10 +1,8 @@
 <div align="center">
 
-<div>
-<strong style="font-size: 28px;">Projetos e soluções em Análise de Sistemas</strong>
-</div>
-
-<br>
+<p>
+<font size="6"><strong>Projetos e soluções em Análise de Sistemas</strong></font>
+</p>
 
 Experiência em Suporte Técnico aplicada à análise de problemas, requisitos,
 regras de negócio, validação e evolução de sistemas.
@@ -13,11 +11,9 @@ regras de negócio, validação e evolução de sistemas.
 
 <hr>
 
-<div>
-<strong>Como atuo</strong>
-</div>
-
-<br>
+<p>
+<font size="5"><strong>Como atuo</strong></font>
+</p>
 
 <table width="100%">
 <tr>
@@ -26,7 +22,7 @@ regras de negócio, validação e evolução de sistemas.
 
 <div align="center">
 
-<strong>🔎 Análise</strong>
+<font size="4"><strong>🔎 Análise</strong></font>
 
 <br><br>
 
@@ -40,7 +36,7 @@ Compreensão de problemas e necessidades, organização de informações e defin
 
 <div align="center">
 
-<strong>✅ Validação</strong>
+<font size="4"><strong>✅ Validação</strong></font>
 
 <br><br>
 
@@ -54,7 +50,7 @@ Verificação de comportamentos, identificação de inconsistências e avaliaç�
 
 <div align="center">
 
-<strong>📈 Evolução</strong>
+<font size="4"><strong>📈 Evolução</strong></font>
 
 <br><br>
 
@@ -69,11 +65,9 @@ Análise de processos e resultados para orientar correções, melhorias e novas 
 
 <hr>
 
-<div>
-<strong>Projetos</strong>
-</div>
-
-<br>
+<p>
+<font size="5"><strong>Projetos</strong></font>
+</p>
 
 <table width="100%">
 <tr>
@@ -82,7 +76,7 @@ Análise de processos e resultados para orientar correções, melhorias e novas 
 
 <div align="center">
 
-<strong>🎯 ControlBet</strong>
+<font size="4"><strong>🎯 ControlBet</strong></font>
 
 <br><br>
 
@@ -109,8 +103,6 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 <li>Dashboard, indicadores e relatórios</li>
 </ul>
 
-<br>
-
 <div align="center">
 
 <a href="https://github.com/regesalves/controlbet-demo" target="_blank" rel="noopener noreferrer">
@@ -125,7 +117,7 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 
 <div align="center">
 
-<strong>🎫 Sistema de Chamados</strong>
+<font size="4"><strong>🎫 Sistema de Chamados</strong></font>
 
 <br><br>
 
@@ -151,8 +143,6 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 <li>Persistência de dados com localStorage</li>
 </ul>
 
-<br>
-
 <div align="center">
 
 <a href="https://github.com/regesalves/sistema-de-chamados-react" target="_blank" rel="noopener noreferrer">
@@ -168,11 +158,9 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 <hr>
 
-<div>
-<strong>Tecnologias aplicadas</strong>
-</div>
-
-<br>
+<p>
+<font size="5"><strong>Tecnologias aplicadas</strong></font>
+</p>
 
 <table width="100%">
 <tr>
@@ -181,7 +169,7 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 <div align="center">
 
-<strong>💻 Aplicações</strong>
+<font size="4"><strong>💻 Aplicações</strong></font>
 
 <br><br>
 
@@ -197,7 +185,7 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 <div align="center">
 
-<strong>🗄️ Dados e armazenamento</strong>
+<font size="4"><strong>🗄️ Dados e armazenamento</strong></font>
 
 <br><br>
 
@@ -212,7 +200,7 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 <div align="center">
 
-<strong>🔧 Versionamento e publicação</strong>
+<font size="4"><strong>🔧 Versionamento e publicação</strong></font>
 
 <br><br>
 
@@ -229,11 +217,9 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 
 <hr>
 
-<div>
-<strong>Contato profissional</strong>
-</div>
-
-<br>
+<p>
+<font size="5"><strong>Contato profissional</strong></font>
+</p>
 
 <div align="center">
 
@@ -241,7 +227,7 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:reges.alves@hotmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:reges.alves@hotmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
 </a>
 
