@@ -13,7 +13,7 @@ regras de negócio, validação e evolução de sistemas.
 
 <h2>Como atuo</h2>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" valign="top">
@@ -40,7 +40,7 @@ Verificação de comportamentos, identificação de inconsistências e avaliaç�
 
 </td>
 
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 <div align="center">
 
@@ -59,11 +59,18 @@ Análise de processos e resultados para orientar correções, melhorias e novas 
 
 <h2>Projetos</h2>
 
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
 <h3>🎯 ControlBet</h3>
 
-<p>
+</div>
+
 <strong>Projeto próprio e individual para gerenciamento e acompanhamento de banca de apostas.</strong>
-</p>
 
 <p>
 O ControlBet centraliza o registro de bilhetes e movimentações, acompanha resultados e transforma os dados registrados em informações úteis para controle e análise.
@@ -73,7 +80,7 @@ O ControlBet centraliza o registro de bilhetes e movimentações, acompanha resu
 Minha atuação no projeto envolveu análise de necessidades, definição de requisitos, regras de negócio e fluxos, realização de testes manuais e aplicação de critérios de aceite para validar e refinar a solução.
 </p>
 
-<p><strong>O que o projeto demonstra</strong></p>
+<strong>O que demonstra</strong>
 
 <ul>
 <li>Requisitos, comportamentos e fluxos</li>
@@ -84,17 +91,25 @@ Minha atuação no projeto envolveu análise de necessidades, definição de req
 <li>Dashboard, indicadores e relatórios</li>
 </ul>
 
-<p>
-<a href="https://github.com/regesalves/controlbet-demo"><strong>Acessar projeto →</strong></a>
-</p>
+<div align="center">
 
----
+<a href="https://github.com/regesalves/controlbet-demo">
+<strong>Acessar projeto →</strong>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
 
 <h3>🎫 Sistema de Chamados</h3>
 
-<p>
+</div>
+
 <strong>Projeto acadêmico para registro e acompanhamento de solicitações de suporte.</strong>
-</p>
 
 <p>
 Desenvolvido como trabalho final do curso de Programação Frontend com React e JavaScript, o projeto simula um fluxo básico de atendimento e permite registrar, acompanhar e organizar chamados técnicos.
@@ -104,15 +119,33 @@ Desenvolvido como trabalho final do curso de Programação Frontend com React e 
 O projeto relaciona minha experiência em Suporte Técnico à compreensão e organização de um fluxo básico de atendimento.
 </p>
 
-<p>
-<a href="https://github.com/regesalves/sistema-de-chamados-react"><strong>Acessar projeto →</strong></a>
-</p>
+<strong>O que demonstra</strong>
+
+<ul>
+<li>Organização de fluxo de atendimento</li>
+<li>Registro e acompanhamento de solicitações</li>
+<li>Organização de demandas técnicas</li>
+<li>Aplicação prática de conhecimentos em React</li>
+</ul>
+
+<div align="center">
+
+<a href="https://github.com/regesalves/sistema-de-chamados-react">
+<strong>Acessar projeto →</strong>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <h2>Tecnologias aplicadas</h2>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" valign="top">
@@ -146,7 +179,7 @@ O projeto relaciona minha experiência em Suporte Técnico à compreensão e org
 
 </td>
 
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 <div align="center">
 
