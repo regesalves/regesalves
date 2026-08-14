@@ -1,39 +1,131 @@
+<div align="center">
+
+# Réges Alves
+
+### Análise de Sistemas | Suporte Técnico
+
+Análise de problemas, requisitos, regras de negócio, validação e evolução de soluções.
+
+<br>
+
+<a href="https://www.linkedin.com/in/regesalves/">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:reges.alves@hotmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
+</a>
+
+</div>
+
+---
+
+## Sobre mim
+
 Minha experiência em Suporte Técnico me proporcionou contato direto com problemas, necessidades de usuários e funcionamento de sistemas. A partir dessa base, direciono minha atuação para Análise de Sistemas e desenvolvo projetos próprios que me permitem analisar necessidades, definir comportamentos e validar soluções na prática.
 
-## Áreas de contribuição
+---
 
-**Análise e estruturação**  
+## Como atuo
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔎 Análise e estruturação
+
 Compreensão de problemas e necessidades, organização de informações e definição de requisitos, regras de negócio e fluxos funcionais.
 
-**Validação e experiência de uso**  
+</td>
+
+<td width="33%" valign="top">
+
+### ✅ Validação e experiência de uso
+
 Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades considerando as necessidades do usuário.
 
-**Evolução e melhoria de soluções**  
-Análise de processos e resultados para orientar correções e melhorias na solução.
+</td>
 
-## Projetos em destaque
+<td width="33%" valign="top">
 
-### ControlBet
+### 📈 Evolução de soluções
+
+Análise de processos e resultados para orientar correções, melhorias e novas decisões sobre a solução.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 🎯 ControlBet
 
 **Projeto próprio e individual para gerenciamento e acompanhamento de banca de apostas.**
 
-O ControlBet foi desenvolvido para centralizar o registro de bilhetes e movimentações, acompanhar resultados e transformar os dados registrados em informações úteis para controle e análise.
+O ControlBet centraliza o registro de bilhetes e movimentações, acompanha resultados e transforma os dados registrados em informações úteis para controle e análise.
 
-Minha atuação no projeto envolveu a análise de necessidades, definição de requisitos, regras de negócio e fluxos, realização de testes manuais e aplicação de critérios de aceite para validar e refinar a solução.
+Minha atuação no projeto envolveu análise de necessidades, definição de requisitos, regras de negócio e fluxos, realização de testes manuais e aplicação de critérios de aceite para validar e refinar a solução.
 
-O projeto reúne recursos de registro e acompanhamento, cálculos, indicadores, dashboard, relatórios e filtros, com foco na organização das informações e na experiência de uso.
+**Principais evidências**
 
-**Principais evidências:**
-- definição de requisitos, comportamentos e fluxos;
-- aplicação de regras de negócio;
-- validação de cálculos e funcionalidades;
-- identificação e correção de inconsistências;
-- evolução incremental da solução;
-- publicação de uma versão demonstrativa funcional.
+- Requisitos, comportamentos e fluxos
+- Regras de negócio
+- Validação de cálculos e funcionalidades
+- Identificação e correção de inconsistências
+- Evolução incremental da solução
+- Dashboard, indicadores e relatórios
 
-[Repositório](https://github.com/regesalves/controlbet-demo) · [Demonstração](https://controlbet-demo.vercel.app/)
+<br>
 
-### Sistema de Chamados
+<a href="https://github.com/regesalves/controlbet-demo">
+  🔗 Ver repositório
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://controlbet-demo.vercel.app/">
+  🚀 Testar demonstração
+</a>
+
+</td>
+
+<td width="40%" valign="top">
+
+<img src="https://raw.githubusercontent.com/regesalves/controlbet-demo/main/.github/imagens/dashboard.png" alt="Dashboard do ControlBet">
+
+<br>
+
+<div align="center">
+
+**React · JavaScript · Supabase · Vercel**
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="40%" valign="top">
+
+<img src="https://raw.githubusercontent.com/regesalves/sistema-de-chamados-react/main/src/assets/preview.png" alt="Sistema de Chamados">
+
+</td>
+
+<td width="60%" valign="top">
+
+### 🎫 Sistema de Chamados
 
 **Projeto acadêmico para registro e acompanhamento de solicitações de suporte.**
 
@@ -41,24 +133,77 @@ Desenvolvido como trabalho final do curso de Programação Frontend com React e 
 
 O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organização de um fluxo relacionado ao atendimento e suporte técnico.
 
-[Repositório](https://github.com/regesalves/sistema-de-chamados-react)
+<br>
 
-## Tecnologias aplicadas nos projetos
+<a href="https://github.com/regesalves/sistema-de-chamados-react">
+  🔗 Ver repositório
+</a>
 
-Ferramentas utilizadas na construção, integração, versionamento e disponibilização das soluções apresentadas.
+<br><br>
 
-**Construção das aplicações**  
-React, JavaScript, HTML e CSS
+**React · JavaScript · Vite · LocalStorage**
 
-**Dados e armazenamento**  
-Supabase, localStorage
+</td>
 
-**Versionamento e publicação**  
-Git, GitHub e Vercel
+</tr>
+</table>
 
-## Contato profissional
+---
 
-Para conhecer minha trajetória profissional ou entrar em contato:
+## 🛠️ Tecnologias aplicadas
 
-- [LinkedIn](https://www.linkedin.com/in/regesalves/)
-- [E-mail](mailto:reges.alves@hotmail.com)
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Aplicações
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗄️ Dados e armazenamento
+
+<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
+<img src="https://img.shields.io/badge/LocalStorage-323330?style=flat-square&logo=googlechrome&logoColor=white">
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔧 Versionamento e publicação
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Em foco
+
+Atualmente, utilizo meus projetos próprios como espaço para aplicar e aprofundar conhecimentos em análise de sistemas, organização de requisitos, regras de negócio, validação funcional e evolução de soluções.
+
+---
+
+## 📫 Contato profissional
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/regesalves/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conheça%20minha%20trajetória-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:reges.alves@hotmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Entre%20em%20contato-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+</a>
+
+</div>
