@@ -41,7 +41,7 @@ Compreensão de problemas e necessidades, organização de informações e defin
 
 <h3>✅ Validação</h3>
 
-Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades considerando as necessidades do usuário.
+Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades de acordo com as necessidades do usuário.
 
 </div>
 
