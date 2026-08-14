@@ -141,7 +141,7 @@ O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organiz
 
 <br><br>
 
-**React · JavaScript · Vite · LocalStorage**
+**React · JavaScript · Vite · localStorage**
 
 </td>
 
@@ -160,8 +160,7 @@ O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organiz
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white">
 
 </td>
 
@@ -170,7 +169,7 @@ O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organiz
 ### 🗄️ Dados e armazenamento
 
 <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E">
-<img src="https://img.shields.io/badge/LocalStorage-323330?style=flat-square&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/localStorage-323330?style=flat-square&logo=googlechrome&logoColor=white">
 
 </td>
 
@@ -185,12 +184,6 @@ O projeto demonstra a aplicação de conhecimentos de desenvolvimento na organiz
 </td>
 </tr>
 </table>
-
----
-
-## 📌 Em foco
-
-Atualmente, utilizo meus projetos próprios como espaço para aplicar e aprofundar conhecimentos em análise de sistemas, organização de requisitos, regras de negócio, validação funcional e evolução de soluções.
 
 ---
 
