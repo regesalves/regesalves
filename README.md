@@ -1,62 +1,3 @@
-<div align="center">
-
-<h1>Projetos e soluções em Análise de Sistemas</h1>
-
-<p>
-Experiência em Suporte Técnico aplicada à análise de problemas, requisitos,
-regras de negócio, validação e evolução de sistemas.
-</p>
-
-</div>
-
----
-
-<h2>Como atuo</h2>
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h3>🔎 Análise</h3>
-
-Compreensão de problemas e necessidades, organização de informações e definição de requisitos, regras de negócio e fluxos funcionais.
-
-</div>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-<h3>✅ Validação</h3>
-
-Verificação de comportamentos, identificação de inconsistências e avaliação das funcionalidades considerando as necessidades do usuário.
-
-</div>
-
-</td>
-
-<td width="34%" valign="top">
-
-<div align="center">
-
-<h3>📈 Evolução</h3>
-
-Análise de processos e resultados para orientar correções, melhorias e novas decisões sobre a solução.
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
 <h2>Projetos</h2>
 
 <table width="100%">
@@ -91,8 +32,6 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 <li>Dashboard, indicadores e relatórios</li>
 </ul>
 
-<br>
-
 <div align="center">
 
 <a href="https://github.com/regesalves/controlbet-demo">
@@ -114,25 +53,23 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 </div>
 
 <p>
-Desenvolvido como trabalho final do curso de Programação Frontend com React e JavaScript, o projeto simula um fluxo básico de atendimento e permite registrar, acompanhar e organizar chamados técnicos.
+Desenvolvido como trabalho final do curso de Programação Frontend com React e JavaScript, o projeto simula um fluxo de atendimento para registrar, acompanhar e organizar chamados técnicos.
 </p>
 
 <p>
-O projeto relaciona minha experiência em Suporte Técnico à compreensão e organização de um fluxo básico de atendimento.
+O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro da solicitação até sua conclusão ou reabertura, mantendo os registros armazenados localmente.
 </p>
 
 <strong>O que demonstra</strong>
 
 <ul>
 <li>Organização de fluxo de atendimento</li>
-<li>Registro e acompanhamento de solicitações</li>
-<li>Organização de demandas técnicas</li>
-<li>Aplicação prática de conhecimentos em React</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
+<li>Cadastro e registro de solicitações</li>
+<li>Listagem e acompanhamento de chamados</li>
+<li>Conclusão e reabertura de atendimentos</li>
+<li>Registro de data e hora</li>
+<li>Persistência de dados com localStorage</li>
 </ul>
-
-<br>
 
 <div align="center">
 
@@ -146,70 +83,3 @@ O projeto relaciona minha experiência em Suporte Técnico à compreensão e org
 
 </tr>
 </table>
-
----
-
-<h2>Tecnologias aplicadas</h2>
-
-<table>
-<tr>
-
-<td width="340" valign="top">
-
-<div align="center">
-
-<h3>💻 Aplicações</h3>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML e CSS">
-
-</div>
-
-</td>
-
-<td width="340" valign="top">
-
-<div align="center">
-
-<h3>🗄️ Dados e armazenamento</h3>
-
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase">&nbsp;
-<img src="https://img.shields.io/badge/localStorage-323330?style=for-the-badge&logo=googlechrome&logoColor=white" alt="localStorage">
-
-</div>
-
-</td>
-
-<td width="340" valign="top">
-
-<div align="center">
-
-<h3>🔧 Versionamento e publicação</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2>Contato profissional</h2>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/regesalves/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:reges.alves@hotmail.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail">
-</a>
-
-</div>
