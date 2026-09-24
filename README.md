@@ -139,7 +139,7 @@ Minha atuação envolveu a definição das funcionalidades e regras da aplicaç�
 
 <div align="center">
 
-<a href="LINK_DO_REPOSITORIO_LOTTOLAB">
+<a href="(https://github.com/regesalves/LottoLab.git)">
 <img src="https://img.shields.io/badge/ACESSAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar LottoLab">
 </a>
 
