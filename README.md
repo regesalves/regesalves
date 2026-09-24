@@ -113,6 +113,46 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 
 <div align="center">
 
+<h3>🍀 LottoLab</h3>
+
+<strong>Projeto próprio para geração e análise de jogos da Lotofácil a partir de critérios configuráveis.</strong>
+
+</div>
+
+<p>
+O LottoLab permite definir dezenas, regras e parâmetros para geração de jogos, reunindo diferentes critérios de análise em uma única aplicação.
+</p>
+
+<p>
+Minha atuação envolveu a definição das funcionalidades e regras da aplicação, organização dos fluxos, testes e validação dos resultados, além de ajustes e refinamentos na experiência de uso. A implementação técnica contou com o apoio de ferramentas de Inteligência Artificial.
+</p>
+
+<strong>O que demonstra</strong>
+
+<ul>
+<li>Definição de requisitos e regras</li>
+<li>Organização de critérios e fluxos</li>
+<li>Testes e validação de resultados</li>
+<li>Identificação e correção de problemas</li>
+<li>Refinamento da experiência de uso</li>
+</ul>
+
+<div align="center">
+
+<a href="LINK_DO_REPOSITORIO_LOTTOLAB">
+<img src="https://img.shields.io/badge/ACESSAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acessar LottoLab">
+</a>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
 <h3>🎫 Sistema de Chamados</h3>
 
 <strong>Projeto acadêmico para registro e acompanhamento de solicitações de suporte.</strong>
@@ -149,8 +189,6 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 </tr>
 
 </table>
-
----
 
 ---
 
