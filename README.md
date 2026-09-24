@@ -67,9 +67,9 @@ Análise de processos e resultados para identificar oportunidades, orientar corr
 <h2>Projetos</h2>
 
 <table width="100%">
-<tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="100%" valign="top">
 
 <div align="center">
 
@@ -106,8 +106,10 @@ Minha atuação envolveu análise de necessidades, definição de requisitos, re
 </div>
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="100%" valign="top">
 
 <div align="center">
 
@@ -144,9 +146,11 @@ O sistema permite gerenciar diferentes etapas do atendimento, desde o cadastro d
 </div>
 
 </td>
-
 </tr>
+
 </table>
+
+---
 
 ---
 
